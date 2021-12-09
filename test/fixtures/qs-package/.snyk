@@ -1,1 +1,8 @@
-version: v1
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.22.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  'npm:hoek:20180212':
+    - '@remy/protect-test > request > hawk > boom > hoek':
+        patched: '2021-12-09T18:58:06.057Z'
