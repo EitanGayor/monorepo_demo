@@ -68,7 +68,7 @@
     "pg": "4.1.1"
   },
   "devDependencies": {
-    "bower": "1.4.1",
+    "bower": "1.7.5",
     "csscomb": "3.0.4",
     "grunt": "0.4.5",
     "grunt-bg-shell": "2.3.1",
@@ -78,7 +78,7 @@
     "grunt-contrib-copy": "0.8.0",
     "grunt-contrib-jshint": "0.11.2",
     "grunt-contrib-uglify": "0.9.1",
-    "grunt-contrib-watch": "0.6.1",
+    "grunt-contrib-watch": "1.1.0",
     "grunt-docker": "0.0.10",
     "grunt-express-server": "0.5.1",
     "grunt-jscs": "1.8.0",
