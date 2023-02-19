@@ -9,7 +9,7 @@
   "author": "Remy Sharp",
   "license": "private",
   "dependencies": {
-    "autocache": "^0.6.1",
+    "autocache": "^0.7.4",
     "express": "^3.21.1",
     "less": "^2.5.1",
     "marked": "^0.2.10"
