@@ -86,7 +86,7 @@
     "snyk-nodejs-lockfile-parser": "1.17.0",
     "snyk-nuget-plugin": "1.16.0",
     "snyk-php-plugin": "1.7.0",
-    "snyk-policy": "1.13.5",
+    "snyk-policy": "1.25.1",
     "snyk-python-plugin": "1.16.0",
     "snyk-resolve": "1.0.1",
     "snyk-resolve-deps": "4.4.0",
