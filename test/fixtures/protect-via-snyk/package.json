@@ -5,8 +5,8 @@
   "main": "index.js",
   "dependencies": {
     "semver": "^2.3.2",
-    "get-uri": "2.0.2",
-    "snyk": "*"
+    "get-uri": "2.0.4",
+    "snyk": "1.1293.0"
   },
   "scripts": {
     "env": "env",
